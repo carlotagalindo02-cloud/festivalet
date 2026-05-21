@@ -1421,7 +1421,7 @@ footer {
   .entrevistes .card {
     flex: 0 0 calc(100vw - 40px);
     scroll-snap-align: center;
-    background-image: url("../entrevistes/grafica.svg");
+    background-image: url("entrevistes/grafica.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

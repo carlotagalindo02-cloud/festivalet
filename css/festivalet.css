@@ -1089,7 +1089,7 @@ footer {
     overflow: hidden;
     box-sizing: border-box;
 
-    background-image: url('../contacte/fons.svg');
+    background-image: url('contacte/fons.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1622,7 +1622,7 @@ footer {
     width: 100%;
     overflow: hidden;
 
-    background-image: url('../contacte/fons.svg');
+    background-image: url('contacte/fons.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
