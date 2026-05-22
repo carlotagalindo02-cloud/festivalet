@@ -32,7 +32,7 @@ body {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,7 +74,7 @@ body {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -1421,7 +1421,7 @@ footer {
   .entrevistes .card {
     flex: 0 0 calc(100vw - 40px);
     scroll-snap-align: center;
-    background-image: url("entrevistes/grafica.svg");
+    background-image: url("../entrevistes/grafica.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

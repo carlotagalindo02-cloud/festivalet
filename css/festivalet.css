@@ -35,7 +35,7 @@ body {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -79,7 +79,7 @@ body {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -465,7 +465,7 @@ nav ul li a {
   justify-content: flex-start;
   align-items: flex-start;
   gap: 100px !important;
-  background-image: url('festivalet/fons.svg');
+  background-image: url('../festivalet/fons.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1089,7 +1089,7 @@ footer {
     overflow: hidden;
     box-sizing: border-box;
 
-    background-image: url('contacte/fons.svg');
+    background-image: url('../contacte/fons.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1622,7 +1622,7 @@ footer {
     width: 100%;
     overflow: hidden;
 
-    background-image: url('contacte/fons.svg');
+    background-image: url('../contacte/fons.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

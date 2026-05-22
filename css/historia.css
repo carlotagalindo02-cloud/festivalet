@@ -60,7 +60,7 @@ header {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -104,7 +104,7 @@ header {
   height: 52px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("icones/boto.svg");
+  background-image: url("../icones/boto.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -346,7 +346,7 @@ nav ul li a,
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url('historia/punt.svg');
+  background-image: url('../historia/punt.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -394,7 +394,7 @@ nav ul li a,
    ========================================= */
 
 .banner-historia {
-  background-image: url('historia/manifest.svg');
+  background-image: url('../historia/manifest.svg');
   background-size: cover;
   background-position: center;
   min-height: 350px;
@@ -468,7 +468,7 @@ nav ul li a,
 }
 
 .card {
-  background-image: url('historia/collaboradors.svg');
+  background-image: url('../historia/collaboradors.svg');
   background-size: cover;
   background-position: center;
   border-radius: 20px;
